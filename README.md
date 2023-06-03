@@ -25,7 +25,7 @@ The game presents a series of Spanish words and their English translations, allo
 
 ## Requirements
 
-- Python 3
+- Python 3.
 - pandas library.
 - tkinter library.
 
